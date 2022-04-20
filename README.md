@@ -33,7 +33,7 @@ From the root directory :
 * Fetch updated `js` files : `wget -N -i list.txt -B http://orteil.dashnet.org/cookieclicker/`
 * Fetch the updated `index.html` file
 * Scan `index.html` for any new `<script src` and also `main.js` for any new local javascript (eg `Game.last.minigameUrl`)
-* Create a new folder named patreon and then fetch `grab.php` file inside patreon dir: `wget https://orteil.dashnet.org/patreon/grab.php`
+* Create a new folder named `patreon` and then fetch `grab.php` file inside patreon dir: `wget https://orteil.dashnet.org/patreon/grab.php`
 
 #### 4. Report update here :)
 
